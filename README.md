@@ -33,7 +33,7 @@ I’m a passionate mobile and full stack developer with **9+ years of industry e
 ### 🧰 Dev & Collaboration Tools
 - **Version Control**: GitHub, Bitbucket
 - **IDEs**: Android Studio, VS Code
-- **Project Management**: JIRA, Trello
+- **Project Management**: JIRA
 
 ---
 
