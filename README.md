@@ -63,7 +63,7 @@ A full-featured **Learning Management System** using the MERN stack with user au
 
 - 🔗 [LinkedIn](https://linkedin.com/in/dilip-ghawade-8a7058117)
 - 🌐 [Portfolio Website](https://dilip-portfolio-beta.vercel.app)
-- 💼 [Naukri Profile](https://www.naukri.com/mnjuser/profile) *(Add your actual URL)*
+- 💼 [Naukri Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 - 📧 Email: ghawadedilip@gmail.com
 
 ---
